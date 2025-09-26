@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+    <h1>Hi there 👋, I'm Leo Xiafeng Man</h1>
+</div>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=leo-xfm&show_icons=true&title_color=83a598&icon_color=fb4934&text_color=9f9f9f&bg_color=3c383c">
+</p>
 
 <!--
 **leo-xfm/leo-xfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
